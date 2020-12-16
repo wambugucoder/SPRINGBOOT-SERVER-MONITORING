@@ -55,8 +55,7 @@ Make Sure you've got the following prometheus and grafana downloaded and the fol
 		<artifactId>spring-boot-starter-actuator</artifactId>
 	</dependency>
 ```
-* prometheus
-```
+
 * prometheus
 ```java
 <dependency>
