@@ -88,7 +88,7 @@ git clone https://github.com/wambugucoder/SPRINGBOOT-SERVER-MONITORING.git
 ```sh
 mvn run
 ```
-4. Access Prometheus on localhost:9090 and Grafana on localhst:3000 to view your server metrics.
+4. Access Prometheus on localhost:9090 and Grafana on localhost:3000 to view your server metrics.
   
 
 
