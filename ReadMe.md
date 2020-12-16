@@ -5,7 +5,7 @@
   <h3 align="center">Server-Monitoring</h3>
 
   <p align="center">
-   Monitoring A springBoot Server with Prometheus and Grafana
+   Monitoring A SpringBoot Server with Prometheus and Grafana
     <br />
   
 
