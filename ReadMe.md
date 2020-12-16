@@ -56,7 +56,7 @@ Make Sure you've got the following prometheus and grafana downloaded and the fol
 	</dependency>
 ```
 * prometheus
-```java
+```
 * prometheus
 ```java
 <dependency>
